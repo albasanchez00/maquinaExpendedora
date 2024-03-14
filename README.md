@@ -1,2 +1,1 @@
-# maquinaExpendedora
-Maquina expendedora de golosinas
+<h1>PROYECTO DE UNA MÁQUINA EXPENDEDORA DE GOLOSINAS EN JAVA CON ARRAYS</h1>
